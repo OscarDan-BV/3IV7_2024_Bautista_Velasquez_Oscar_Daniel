@@ -20,8 +20,8 @@ SubProceso pentagono(lado, apotema)
 	Definir area, perimetro Como Real
 	perimetro = lado * 5
     area = .5*(perimetro * apotema)
-	Escribir "El area del hexagono es: ", area
-	Escribir "El perimetro del hexagono es: ",perimetro
+	Escribir "El area del pentagono es: ", area
+	Escribir "El perimetro del pentagono es: ",perimetro
 FinSubProceso
 
 SubProceso hexagono(lado, apotema)
@@ -36,32 +36,32 @@ SubProceso heptagono(lado, apotema)
 	Definir area, perimetro Como Real
 	perimetro = lado * 7
     area = .5*(perimetro * apotema)
-	Escribir "El area del hexagono es: ", area
-	Escribir "El perimetro del hexagono es: ",perimetro
+	Escribir "El area del heptagono es: ", area
+	Escribir "El perimetro del heptagono es: ",perimetro
 FinSubProceso
 
 SubProceso octagono(lado, apotema)
 	Definir area, perimetro Como Real
 	perimetro = lado * 8
     area = .5*(perimetro * apotema)
-	Escribir "El area del hexagono es: ", area
-	Escribir "El perimetro del hexagono es: ",perimetro
+	Escribir "El area del octagono es: ", area
+	Escribir "El perimetro del octagono es: ",perimetro
 FinSubProceso
 
 SubProceso eneagono(lado, apotema)
 	Definir area, perimetro Como Real
 	perimetro = lado * 9
     area = .5*(perimetro * apotema)
-	Escribir "El area del hexagono es: ", area
-	Escribir "El perimetro del hexagono es: ",perimetro
+	Escribir "El area del eneagono es: ", area
+	Escribir "El perimetro del eneagono es: ",perimetro
 FinSubProceso
 
 SubProceso decagono(lado, apotema)
 	Definir area, perimetro Como Real
 	perimetro = lado * 10
     area = .5*(perimetro * apotema)
-	Escribir "El area del hexagono es: ", area
-	Escribir "El perimetro del hexagono es: ",perimetro
+	Escribir "El area del decagono es: ", area
+	Escribir "El perimetro del decagono es: ",perimetro
 FinSubProceso
 
 
@@ -69,7 +69,7 @@ FinSubProceso
 Algoritmo Calculadora_Figuras
 	Definir Op Como Caracter
 	Definir Base, Altura, Lado1, Lado2, Lado3, lado, apotema Como Real
-	Escribir "Selecciona una opción"
+	Escribir "Selecciona una opciÃ³n"
 	Escribir "A.-Area y Perimetro del Triangulo"
 	Escribir "B.-Area y Perimetro del Rectangulo"
 	Escribir "C.- Area y Perimetro del pentagono regular"
