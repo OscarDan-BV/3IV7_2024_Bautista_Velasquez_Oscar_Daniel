@@ -9,6 +9,9 @@ def ingresar_matriz(tamaño):
         matriz.append(columna)
     return matriz
 
+def transponer_matriz(matriz, tamaño):
+    return [[matriz[j][i] for j in range(tamaño)] for i in range(tamaño)]
+
 def sumar_matriz(matriz1, matriz2, tamaño):
     matriz_suma = []
     for i in range(tamaño):
@@ -28,8 +31,13 @@ while tamaño not in [3, 5]:
 
 print("Matriz 1: ")
 matriz1 = ingresar_matriz(tamaño)
+print("Matriz 1 Transpuesta:")
+imprimir_matriz(transponer_matriz(matriz1, tamaño))
+
 print("Matriz 2: ")
 matriz2 = ingresar_matriz(tamaño)
+print("Matriz 2 Transpuesta:")
+imprimir_matriz(transponer_matriz(matriz2, tamaño))
 
 matriz_resultado = sumar_matriz(matriz1, matriz2, tamaño)
 
