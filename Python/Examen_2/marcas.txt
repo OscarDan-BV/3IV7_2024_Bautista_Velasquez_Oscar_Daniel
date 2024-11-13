@@ -1,0 +1,30 @@
+Nike,Deportes,EE.UU.,1964,Oreg�n,38000,S�,Phil Knight
+Adidas,correr,Alemania,1949,Herzogenaurach,21500,S�,Adolf Dassler
+Puma,Deportes,Alemania,1948,Herzogenaurach,5700,S�,Rudolf Dassler
+Gucci,Lujo,Italia,1921,Florencia,9800,S�,Guccio Gucci
+Louis Vuitton,Lujo,Francia,1854,Par�s,10000,S�,Louis Vuitton
+Zara,Moda r�pida,Espa�a,1974,Arteijo,24000,S�,Amancio Ortega
+H&M,Moda r�pida,Suecia,1947,Estocolmo,22000,S�,Erling Persson
+Chanel,Lujo,Francia,1909,Par�s,10000,S�,Coco Chanel
+Cartier,Lujo,Francia,1847,Par�s,6300,S�,Louis-Fran�ois Cartier
+Herm�s,Lujo,Francia,1837,Par�s,8500,S�,Thierry Herm�s
+Rolex,Lujo,Suiza,1905,Ginebra,5200,S�,Hans Wilsdorf
+Uniqlo,Moda r�pida,Jap�n,1949,Tokio,19000,S�,Tadashi Yanai
+Burberry,Lujo,Reino Unido,1856,Londres,3000,S�,Thomas Burberry
+Levi's,Casual,EE.UU.,1853,San Francisco,4500,S�,Levi Strauss
+Supreme,Streetwear,EE.UU.,1994,Nueva York,500,S�,James Jebbia
+Balenciaga,Lujo,Espa�a,1917,Par�s,1500,S�,Crist�bal Balenciaga
+Versace,Lujo,Italia,1978,Mil�n,800,S�,Gianni Versace
+Tommy Hilfiger,Casual,EE.UU.,1985,Nueva York,7000,S�,Tommy Hilfiger
+Ralph Lauren,Lujo,EE.UU.,1967,Nueva York,6200,S�,Ralph Lauren
+Prada,Lujo,Italia,1913,Mil�n,3600,S�,Mario Prada
+Fendi,Lujo,Italia,1925,Roma,1100,S�,Adele y Edoardo Fendi
+Under Armour,Deportes,EE.UU.,1996,Baltimore,5400,S�,Kevin Plank
+The North Face,Outdoor,EE.UU.,1968,California,2800,S�,Douglas Tompkins
+New Balance,Deportes,EE.UU.,1906,Boston,4100,S�,William Riley
+Vans,Deportes,EE.UU.,1966,California,3500,S�,Paul Van Doren
+Calvin Klein,Lujo,EE.UU.,1968,Nueva York,3600,S�,Calvin Klein
+Patagonia,Outdoor,EE.UU.,1973,California,1000,S�,Yvon Chouinard
+Columbia,Outdoor,EE.UU.,1938,Oreg�n,2700,S�,Paul Lamfrom
+Moncler,Lujo,Francia,1952,Mil�n,1700,S�,Ren� Ramillon
+OSCAR,M,MEX,OSC,CDMX,1,SI,OSC
